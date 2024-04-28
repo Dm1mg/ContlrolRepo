@@ -1,0 +1,14 @@
+C:\ControlWork\ControlApp\obj\Debug\net8.0\ControlApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ControlWork\ControlApp\obj\Debug\net8.0\ControlApp.AssemblyInfoInputs.cache
+C:\ControlWork\ControlApp\obj\Debug\net8.0\ControlApp.AssemblyInfo.cs
+C:\ControlWork\ControlApp\obj\Debug\net8.0\ControlApp.csproj.CoreCompileInputs.cache
+C:\ControlWork\ControlApp\bin\Debug\net8.0\ControlApp.exe
+C:\ControlWork\ControlApp\bin\Debug\net8.0\ControlApp.deps.json
+C:\ControlWork\ControlApp\bin\Debug\net8.0\ControlApp.runtimeconfig.json
+C:\ControlWork\ControlApp\bin\Debug\net8.0\ControlApp.dll
+C:\ControlWork\ControlApp\bin\Debug\net8.0\ControlApp.pdb
+C:\ControlWork\ControlApp\obj\Debug\net8.0\ControlApp.dll
+C:\ControlWork\ControlApp\obj\Debug\net8.0\refint\ControlApp.dll
+C:\ControlWork\ControlApp\obj\Debug\net8.0\ControlApp.pdb
+C:\ControlWork\ControlApp\obj\Debug\net8.0\ControlApp.genruntimeconfig.cache
+C:\ControlWork\ControlApp\obj\Debug\net8.0\ref\ControlApp.dll
